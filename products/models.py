@@ -7,6 +7,4 @@ class Product(models.Model):
   price = models.IntegerField(default=0)
   reviews = models.CharField(max_length=255,default='')
   shipping_rates = models.IntegerField(default=0)
-  # delivery_timelines = models.CharField(max_length=255)
-  # return_timelines = models.CharField(max_length=255)
 
