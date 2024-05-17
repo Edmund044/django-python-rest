@@ -14,3 +14,7 @@ Run a command inside the docker container:
 ```bash
 docker-compose run --rm web [command]
 ```
+
+
+Please find the postman collcetion below
+
